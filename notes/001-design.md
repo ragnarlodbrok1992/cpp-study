@@ -6,6 +6,10 @@ Study applications are my way of learning new concepts and frameworks/languages 
 
 ## Content of application
 
+### Interfaces - CLI and maybe GUI?
+
+### Topics and subtopics
+
 ## Interfaces
 
 ## Contributing
